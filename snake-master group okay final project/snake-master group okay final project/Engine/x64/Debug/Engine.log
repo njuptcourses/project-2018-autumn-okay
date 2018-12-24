@@ -1,0 +1,18 @@
+﻿  compilation header save succeeded; see C:\Users\mastermindcode\Desktop\snake-master group okay final project\snake-master group okay final project\Engine\FramebufferPS.shh
+  compilation header save succeeded; see C:\Users\mastermindcode\Desktop\snake-master group okay final project\snake-master group okay final project\Engine\FramebufferVS.shh
+  Board.cpp
+  DXErr.cpp
+  FrameTimer.cpp
+  Game.cpp
+  GameSettings.cpp
+  Graphics.cpp
+  Keyboard.cpp
+  Main.cpp
+  MainWindow.cpp
+  Mouse.cpp
+  Snake.cpp
+  Sound.cpp
+  SpriteCodex.cpp
+c:\users\mastermindcode\desktop\snake-master group okay final project\snake-master group okay final project\engine\snake.cpp(11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mastermindcode\desktop\snake-master group okay final project\snake-master group okay final project\engine\snake.cpp(65): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Engine.vcxproj -> C:\Users\mastermindcode\Desktop\snake-master group okay final project\snake-master group okay final project\x64\Debug\Engine.exe
